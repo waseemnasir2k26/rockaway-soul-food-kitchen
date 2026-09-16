@@ -4,6 +4,10 @@ Single-file, dependency-free homepage redesign for **Rockaway's Soul Food Kitche
 
 Built as a pitch demo by [SkynetLabs](https://github.com/waseemnasir2k26). Family-owned Southern comfort cooking · 4,525 Google reviews · open daily 11:30 AM–10 PM.
 
+## Status
+
+Last reviewed: September 2026 · release v2026.09
+
 ## Stack
 - One `index.html`, all CSS inline, vanilla JS — no build step. Open by double-click or serve statically.
 - Google Fonts (Fraunces + DM Sans), Restaurant JSON-LD, full mobile responsive, WCAG-AA focus/contrast, `prefers-reduced-motion` aware.
